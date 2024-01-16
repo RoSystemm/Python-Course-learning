@@ -15,6 +15,9 @@ print(my_second_tuple) # ----> Output: (50, 30, 'Hola', True)
 #Conocer el tipo tuple
 print(type(my_first_tuple)) # ----> Output: Tipo = 'tuple'
 
+#Calcular la longitud de las tuplas
+print(len(my_first_tuple)) # ----> Output: 4
+
 #Ubicar valores dentro de una tupla
 print(my_first_tuple[0]) # ----> Output: 20 | Recuerda que una tupla comienza desde el i=0 es decir el primer valor es el [0] y asi sucesivamente
 
