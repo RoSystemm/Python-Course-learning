@@ -58,7 +58,7 @@ print(text.casefold()) # ----> Esta funcion devuelve el string convertido en min
 
 print(text.upper()) # ----> Esta funcion pone la palabra en Mayuscula completamente | Output: PYTHON
 
-print(text.count('y')) # ----> Esta funcion cuenta cuantas veces se repite el parametro que le pases dentro de los parentesis en la palabra | Output: 1
+print(text.count('y')) # ----> Esta funcion cuenta cuantas veces se repite el elemento que le pasas como parametro en la palabra | Output: 1
 
 print(text.isnumeric()) # ----> Esta funcion comprueba si el string es numerico o no devuelve un booleano | Output: False
 

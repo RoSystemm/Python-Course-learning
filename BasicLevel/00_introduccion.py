@@ -7,7 +7,7 @@
 #Este es nuestro primer "Hola mundo!"
 print("Hello world!")
 
-#Esto devuelve el tipo del dato que esta dentro del parentesis
+#Esto devuelve el tipo del elemento que le pasas como parametro
 type("Hello world!")
 
 #Tu puedes ver los tipos de esta manera
