@@ -1,3 +1,5 @@
+### VARIABLES ###
+
 #Formas de nombrar variables
 my_string_variable = "Este es mi primera variable"
 mystringvariable = "Este es mi primera variable"
